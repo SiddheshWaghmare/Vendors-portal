@@ -1,0 +1,104 @@
+{
+    "vendors": [
+        {
+            "id": 1,
+            "name": "Tech Solutions Inc.",
+            "email": "contact@techsolutions.com",
+            "phone": "(555) 123-4567",
+            "status": "Active",
+            "address": "123 Tech Park, Silicon Valley, CA",
+            "category": "Electronics",
+            "joinDate": "2023-01-15"
+        },
+        {
+            "id": 2,
+            "name": "Global Supplies Co.",
+            "email": "info@globalsupplies.com",
+            "phone": "(555) 234-5678",
+            "status": "Active",
+            "address": "456 Business Ave, New York, NY",
+            "category": "General Merchandise",
+            "joinDate": "2023-02-20"
+        },
+        {
+            "id": 3,
+            "name": "Quality Products Ltd.",
+            "email": "sales@qualityproducts.com",
+            "phone": "(555) 345-6789",
+            "status": "Inactive",
+            "address": "789 Industrial Blvd, Chicago, IL",
+            "category": "Manufacturing",
+            "joinDate": "2023-03-10"
+        },
+        {
+            "id": 4,
+            "name": "Smart Electronics",
+            "email": "support@smartelectronics.com",
+            "phone": "(555) 456-7890",
+            "status": "Active",
+            "address": "321 Digital Drive, Austin, TX",
+            "category": "Electronics",
+            "joinDate": "2023-04-05"
+        },
+        {
+            "id": 5,
+            "name": "Fresh Foods Distribution",
+            "email": "orders@freshfoods.com",
+            "phone": "(555) 567-8901",
+            "status": "Active",
+            "address": "654 Market Street, San Francisco, CA",
+            "category": "Food & Beverage",
+            "joinDate": "2023-05-15"
+        },
+        {
+            "id": 6,
+            "name": "Fashion Forward Inc.",
+            "email": "style@fashionforward.com",
+            "phone": "(555) 678-9012",
+            "status": "Active",
+            "address": "987 Fashion Ave, Los Angeles, CA",
+            "category": "Apparel",
+            "joinDate": "2023-06-20"
+        },
+        {
+            "id": 7,
+            "name": "Green Earth Organics",
+            "email": "info@greenearth.com",
+            "phone": "(555) 789-0123",
+            "status": "Active",
+            "address": "246 Eco Way, Portland, OR",
+            "category": "Organic Products",
+            "joinDate": "2023-07-01"
+        },
+        {
+            "id": 8,
+            "name": "Build Right Construction",
+            "email": "projects@buildright.com",
+            "phone": "(555) 890-1234",
+            "status": "Inactive",
+            "address": "135 Builder's Row, Denver, CO",
+            "category": "Construction",
+            "joinDate": "2023-08-15"
+        },
+        {
+            "id": 9,
+            "name": "Medical Supplies Plus",
+            "email": "orders@medsupplies.com",
+            "phone": "(555) 901-2345",
+            "status": "Active",
+            "address": "468 Health Parkway, Boston, MA",
+            "category": "Healthcare",
+            "joinDate": "2023-09-10"
+        },
+        {
+            "id": 10,
+            "name": "Digital Solutions Corp",
+            "email": "support@digitalsolutions.com",
+            "phone": "(555) 012-3456",
+            "status": "Active",
+            "address": "579 Tech Circle, Seattle, WA",
+            "category": "Technology",
+            "joinDate": "2023-10-01"
+        }
+    ]
+}

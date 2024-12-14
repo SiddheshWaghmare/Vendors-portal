@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "4K Gaming Monitor",
+      "category": "Electronics",
+      "vendorId": "V001",
+      "price": 499.99,
+      "stock": 50,
+      "description": "27-inch 4K Ultra HD Gaming Monitor with 144Hz refresh rate",
+      "status": "in_stock",
+      "addedDate": "2024-01-10",
+      "lastUpdated": "2024-01-14"
+    },
+    {
+      "id": "P002",
+      "name": "Wireless Gaming Mouse",
+      "category": "Computer Accessories",
+      "vendorId": "V002",
+      "price": 79.99,
+      "stock": 100,
+      "description": "High-precision wireless gaming mouse with RGB lighting",
+      "status": "in_stock",
+      "addedDate": "2024-01-05",
+      "lastUpdated": "2024-01-14"
+    },
+    {
+      "id": "P003",
+      "name": "Smart Home Hub",
+      "category": "Smart Home",
+      "vendorId": "V003",
+      "price": 149.99,
+      "stock": 30,
+      "description": "Central hub for controlling all your smart home devices",
+      "status": "in_stock",
+      "addedDate": "2024-01-08",
+      "lastUpdated": "2024-01-14"
+    },
+    {
+      "id": "P004",
+      "name": "Gaming Console",
+      "category": "Gaming",
+      "vendorId": "V004",
+      "price": 499.99,
+      "stock": 25,
+      "description": "Next-gen gaming console with 4K graphics",
+      "status": "low_stock",
+      "addedDate": "2024-01-01",
+      "lastUpdated": "2024-01-14"
+    },
+    {
+      "id": "P005",
+      "name": "Network Router",
+      "category": "Networking",
+      "vendorId": "V005",
+      "price": 199.99,
+      "stock": 40,
+      "description": "High-speed Wi-Fi 6 router for home and office",
+      "status": "in_stock",
+      "addedDate": "2024-01-12",
+      "lastUpdated": "2024-01-14"
+    },
+    {
+      "id": "P006",
+      "name": "Mechanical Keyboard",
+      "category": "Computer Accessories",
+      "vendorId": "V001",
+      "price": 129.99,
+      "stock": 60,
+      "description": "RGB mechanical gaming keyboard with custom switches",
+      "status": "in_stock",
+      "addedDate": "2024-01-03",
+      "lastUpdated": "2024-01-14"
+    },
+    {
+      "id": "P007",
+      "name": "Smart Security Camera",
+      "category": "Security",
+      "vendorId": "V003",
+      "price": 89.99,
+      "stock": 45,
+      "description": "1080p wireless security camera with night vision",
+      "status": "in_stock",
+      "addedDate": "2024-01-07",
+      "lastUpdated": "2024-01-14"
+    },
+    {
+      "id": "P008",
+      "name": "Gaming Headset",
+      "category": "Gaming",
+      "vendorId": "V004",
+      "price": 99.99,
+      "stock": 35,
+      "description": "7.1 surround sound gaming headset with noise cancellation",
+      "status": "in_stock",
+      "addedDate": "2024-01-09",
+      "lastUpdated": "2024-01-14"
+    }
+  ]
+}

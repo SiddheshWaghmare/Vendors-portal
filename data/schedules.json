@@ -1,0 +1,100 @@
+{
+    "schedules": [
+        {
+            "id": "SCH001",
+            "type": "delivery",
+            "title": "Bulk Electronics Delivery",
+            "description": "Large electronics shipment to be delivered to main warehouse",
+            "start_date": "2024-12-16T10:00:00",
+            "end_date": "2024-12-16T12:00:00",
+            "status": "pending",
+            "priority": "high",
+            "assigned_to": "John Smith",
+            "location": "Main Warehouse"
+        },
+        {
+            "id": "SCH002",
+            "type": "restock",
+            "title": "Monthly Inventory Restock",
+            "description": "Regular monthly inventory restock for all categories",
+            "start_date": "2024-12-18T09:00:00",
+            "end_date": "2024-12-18T17:00:00",
+            "status": "scheduled",
+            "priority": "medium",
+            "assigned_to": "Sarah Davis",
+            "location": "All Warehouses"
+        },
+        {
+            "id": "SCH003",
+            "type": "vendor_meeting",
+            "title": "Tech Suppliers Quarterly Meeting",
+            "description": "Quarterly review meeting with technology suppliers",
+            "start_date": "2024-12-20T14:00:00",
+            "end_date": "2024-12-20T15:30:00",
+            "status": "confirmed",
+            "priority": "medium",
+            "assigned_to": "Michael Brown",
+            "location": "Conference Room A"
+        },
+        {
+            "id": "SCH004",
+            "type": "deadline",
+            "title": "Year-End Inventory Count",
+            "description": "Complete annual inventory count for all warehouses",
+            "start_date": "2024-12-30T00:00:00",
+            "end_date": "2024-12-31T23:59:59",
+            "status": "upcoming",
+            "priority": "high",
+            "assigned_to": "Team Leads",
+            "location": "All Locations"
+        },
+        {
+            "id": "SCH005",
+            "type": "maintenance",
+            "title": "Warehouse System Maintenance",
+            "description": "Regular maintenance of warehouse management systems",
+            "start_date": "2024-12-22T20:00:00",
+            "end_date": "2024-12-22T23:00:00",
+            "status": "scheduled",
+            "priority": "low",
+            "assigned_to": "Tech Team",
+            "location": "Server Room"
+        },
+        {
+            "id": "SCH006",
+            "type": "delivery",
+            "title": "Holiday Season Special Delivery",
+            "description": "Special product delivery for holiday season",
+            "start_date": "2024-12-23T11:00:00",
+            "end_date": "2024-12-23T16:00:00",
+            "status": "pending",
+            "priority": "high",
+            "assigned_to": "Delivery Team A",
+            "location": "Retail Outlets"
+        },
+        {
+            "id": "SCH007",
+            "type": "vendor_meeting",
+            "title": "New Supplier Introduction",
+            "description": "Meeting with potential new supplier for electronics",
+            "start_date": "2024-12-19T10:00:00",
+            "end_date": "2024-12-19T11:00:00",
+            "status": "scheduled",
+            "priority": "medium",
+            "assigned_to": "Procurement Team",
+            "location": "Online Meeting"
+        },
+        {
+            "id": "SCH008",
+            "type": "maintenance",
+            "title": "Equipment Maintenance",
+            "description": "Regular maintenance of warehouse equipment",
+            "start_date": "2024-12-17T16:00:00",
+            "end_date": "2024-12-17T18:00:00",
+            "status": "scheduled",
+            "priority": "medium",
+            "assigned_to": "Maintenance Team",
+            "location": "Warehouse B"
+        }
+    ]
+}

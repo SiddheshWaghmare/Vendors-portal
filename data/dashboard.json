@@ -1,0 +1,128 @@
+{
+  "statistics": {
+    "revenue": {
+      "total": 24500,
+      "previousTotal": 23675,
+      "percentChange": 3.5,
+      "monthly": [18500, 19800, 21200, 22100, 23675, 24500],
+      "labels": ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    },
+    "orders": {
+      "total": 145,
+      "previousTotal": 149,
+      "percentChange": -2.8,
+      "distribution": {
+        "completed": 89,
+        "pending": 32,
+        "processing": 18,
+        "cancelled": 6
+      }
+    },
+    "averageOrderValue": {
+      "current": 168.90,
+      "previous": 158.89,
+      "percentChange": 6.2
+    },
+    "activeVendors": {
+      "current": 48,
+      "previous": 46,
+      "change": 2
+    }
+  },
+  "topProducts": [
+    {
+      "id": "P001",
+      "name": "4K Gaming Monitor",
+      "sales": 28,
+      "revenue": 13999.72
+    },
+    {
+      "id": "P002",
+      "name": "Wireless Gaming Mouse",
+      "sales": 45,
+      "revenue": 3599.55
+    },
+    {
+      "id": "P003",
+      "name": "Smart Home Hub",
+      "sales": 32,
+      "revenue": 4799.68
+    },
+    {
+      "id": "P004",
+      "name": "Gaming Console",
+      "sales": 15,
+      "revenue": 7499.85
+    },
+    {
+      "id": "P005",
+      "name": "Network Router",
+      "sales": 25,
+      "revenue": 4999.75
+    }
+  ],
+  "recentTransactions": [
+    {
+      "id": "T001",
+      "date": "2024-01-14",
+      "customer": "John Smith",
+      "product": "4K Gaming Monitor",
+      "amount": 499.99,
+      "status": "completed"
+    },
+    {
+      "id": "T002",
+      "date": "2024-01-14",
+      "customer": "Emma Johnson",
+      "product": "Wireless Gaming Mouse",
+      "amount": 79.99,
+      "status": "processing"
+    },
+    {
+      "id": "T003",
+      "date": "2024-01-13",
+      "customer": "Michael Brown",
+      "product": "Smart Home Hub",
+      "amount": 149.99,
+      "status": "completed"
+    },
+    {
+      "id": "T004",
+      "date": "2024-01-13",
+      "customer": "Sarah Wilson",
+      "product": "Gaming Console",
+      "amount": 499.99,
+      "status": "pending"
+    },
+    {
+      "id": "T005",
+      "date": "2024-01-12",
+      "customer": "David Miller",
+      "product": "Network Router",
+      "amount": 199.99,
+      "status": "completed"
+    }
+  ],
+  "salesByCategory": [
+    {
+      "category": "Electronics",
+      "sales": 42500,
+      "percentage": 35
+    },
+    {
+      "category": "Gaming",
+      "sales": 36800,
+      "percentage": 30
+    },
+    {
+      "category": "Smart Home",
+      "sales": 24400,
+      "percentage": 20
+    },
+    {
+      "category": "Networking",
+      "sales": 18300,
+      "percentage": 15
+    }
+  ]
+}
